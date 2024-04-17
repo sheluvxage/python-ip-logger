@@ -23,3 +23,6 @@ def handle_client(client):
     client.close()
 Replace "https://your-webhook-url.com" with your actual webhook URL.
 Now, your Python IP logger will send the IP addresses to your webhook
+
+edit:github doesnt even put it right lmao
+
