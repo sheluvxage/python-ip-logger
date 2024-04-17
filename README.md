@@ -7,7 +7,7 @@ pip install requests
 
 Ip logger:
 
-# import requests
+import requests
 
 def handle_client(client):
     client.send(b'Welcome to the IP logger!')
